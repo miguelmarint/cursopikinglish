@@ -164,7 +164,7 @@ export default {
             B: 1,
             C: 1,
             D: 2,
-            complejo1: { lista: ["I don´t have a friend"] },
+            complejo1: { lista: ["I don´t have a friendsaa"] },
             ESPANOL: "Yo no tengo un amigo",
           },
           {
